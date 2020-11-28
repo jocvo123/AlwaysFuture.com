@@ -1,2 +1,2 @@
-# http://InfiniteSpace.com
+# http://AlwaysFuture.com
 My website
