@@ -1,2 +1,2 @@
-# BrightSpace.com
+# http://BrightSpace.com
 My website
