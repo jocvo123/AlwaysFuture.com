@@ -1,2 +1,2 @@
-# http://BrightSpace.com
+# http://InfiniteSpace.com
 My website
